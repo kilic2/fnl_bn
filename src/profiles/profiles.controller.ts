@@ -26,7 +26,7 @@ export class ProfilesController {
     if (!file) {
       throw new BadRequestException('Fotoğraf yüklenmedi');
     }
-    const photoUrl = `http://localhost:3000/fotograflar/${file.filename}`;
+    const photoUrl = `https://api.donanim.evdekom.com.tr/fotograflar/${file.filename}`;
     return await this.profilesService.create(createProfileDto, photoUrl);
   }
 
