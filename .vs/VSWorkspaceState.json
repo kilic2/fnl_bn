@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\comment",
+    "\\src\\comment\\dto",
+    "\\src\\profile-type",
+    "\\src\\profile-type\\dto",
+    "\\src\\profiles",
+    "\\src\\profiles\\dto",
+    "\\src\\tag",
+    "\\src\\tag\\dto"
+  ],
+  "SelectedNode": "\\src\\profiles\\profiles.controller.ts",
+  "PreviewInSolutionExplorer": false
+}

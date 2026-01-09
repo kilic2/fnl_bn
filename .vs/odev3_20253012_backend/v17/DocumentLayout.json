@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profiles\\profiles.controller.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\profiles\\profiles.controller.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profiles\\profiles.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\profiles\\profiles.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profiles\\dto\\create-profile.dto.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\profiles\\dto\\create-profile.dto.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profile-type\\dto\\update-profile-type.dto.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\profile-type\\dto\\update-profile-type.dto.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profile-type\\dto\\create-profile-type.dto.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\profile-type\\dto\\create-profile-type.dto.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\review\\review.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\review\\review.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\review\\entities\\review.entity.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\review\\entities\\review.entity.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\tag\\entities\\tag.entity.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\tag\\entities\\tag.entity.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profiles\\entities\\profile.entity.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\profiles\\entities\\profile.entity.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\comment\\comment.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\comment\\comment.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\comment\\dto\\create-comment.dto.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\comment\\dto\\create-comment.dto.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\comment\\comment.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\comment\\comment.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\comment\\comment.controller.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\comment\\comment.controller.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\review\\review.controller.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\review\\review.controller.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\tag\\tag.controller.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\tag\\tag.controller.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\tag\\tag.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\tag\\tag.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\tag\\tag.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\tag\\tag.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\tag\\tag.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\tag\\tag.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\review\\review.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\review\\review.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profiles\\profiles.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\profiles\\profiles.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\comment\\entities\\comment.entity.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\comment\\entities\\comment.entity.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "profiles.controller.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profiles\\profiles.controller.ts",
+              "RelativeDocumentMoniker": "src\\profiles\\profiles.controller.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profiles\\profiles.controller.ts",
+              "RelativeToolTip": "src\\profiles\\profiles.controller.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T04:31:02.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "profiles.service.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profiles\\profiles.service.ts",
+              "RelativeDocumentMoniker": "src\\profiles\\profiles.service.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profiles\\profiles.service.ts",
+              "RelativeToolTip": "src\\profiles\\profiles.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T02:46:36.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "create-profile.dto.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profiles\\dto\\create-profile.dto.ts",
+              "RelativeDocumentMoniker": "src\\profiles\\dto\\create-profile.dto.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profiles\\dto\\create-profile.dto.ts",
+              "RelativeToolTip": "src\\profiles\\dto\\create-profile.dto.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T02:38:44.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "update-profile-type.dto.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profile-type\\dto\\update-profile-type.dto.ts",
+              "RelativeDocumentMoniker": "src\\profile-type\\dto\\update-profile-type.dto.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profile-type\\dto\\update-profile-type.dto.ts",
+              "RelativeToolTip": "src\\profile-type\\dto\\update-profile-type.dto.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T02:38:35.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "create-profile-type.dto.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profile-type\\dto\\create-profile-type.dto.ts",
+              "RelativeDocumentMoniker": "src\\profile-type\\dto\\create-profile-type.dto.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profile-type\\dto\\create-profile-type.dto.ts",
+              "RelativeToolTip": "src\\profile-type\\dto\\create-profile-type.dto.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T02:38:32.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "review.entity.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\review\\entities\\review.entity.ts",
+              "RelativeDocumentMoniker": "src\\review\\entities\\review.entity.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\review\\entities\\review.entity.ts",
+              "RelativeToolTip": "src\\review\\entities\\review.entity.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T00:02:27.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tag.entity.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\tag\\entities\\tag.entity.ts",
+              "RelativeDocumentMoniker": "src\\tag\\entities\\tag.entity.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\tag\\entities\\tag.entity.ts",
+              "RelativeToolTip": "src\\tag\\entities\\tag.entity.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T00:03:06.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "review.service.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\review\\review.service.ts",
+              "RelativeDocumentMoniker": "src\\review\\review.service.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\review\\review.service.ts",
+              "RelativeToolTip": "src\\review\\review.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T00:31:20.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "profile.entity.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profiles\\entities\\profile.entity.ts",
+              "RelativeDocumentMoniker": "src\\profiles\\entities\\profile.entity.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profiles\\entities\\profile.entity.ts",
+              "RelativeToolTip": "src\\profiles\\entities\\profile.entity.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-08T23:59:12.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "comment.module.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\comment\\comment.module.ts",
+              "RelativeDocumentMoniker": "src\\comment\\comment.module.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\comment\\comment.module.ts",
+              "RelativeToolTip": "src\\comment\\comment.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T00:14:31.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "create-comment.dto.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\comment\\dto\\create-comment.dto.ts",
+              "RelativeDocumentMoniker": "src\\comment\\dto\\create-comment.dto.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\comment\\dto\\create-comment.dto.ts",
+              "RelativeToolTip": "src\\comment\\dto\\create-comment.dto.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T00:51:39.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "comment.service.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\comment\\comment.service.ts",
+              "RelativeDocumentMoniker": "src\\comment\\comment.service.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\comment\\comment.service.ts",
+              "RelativeToolTip": "src\\comment\\comment.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T00:51:21.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "comment.controller.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\comment\\comment.controller.ts",
+              "RelativeDocumentMoniker": "src\\comment\\comment.controller.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\comment\\comment.controller.ts",
+              "RelativeToolTip": "src\\comment\\comment.controller.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T00:50:25.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "tag.controller.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\tag\\tag.controller.ts",
+              "RelativeDocumentMoniker": "src\\tag\\tag.controller.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\tag\\tag.controller.ts",
+              "RelativeToolTip": "src\\tag\\tag.controller.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T00:45:32.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "review.controller.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\review\\review.controller.ts",
+              "RelativeDocumentMoniker": "src\\review\\review.controller.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\review\\review.controller.ts",
+              "RelativeToolTip": "src\\review\\review.controller.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T00:25:59.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "tag.module.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\tag\\tag.module.ts",
+              "RelativeDocumentMoniker": "src\\tag\\tag.module.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\tag\\tag.module.ts",
+              "RelativeToolTip": "src\\tag\\tag.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T00:11:37.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "tag.service.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\tag\\tag.service.ts",
+              "RelativeDocumentMoniker": "src\\tag\\tag.service.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\tag\\tag.service.ts",
+              "RelativeToolTip": "src\\tag\\tag.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T00:45:54.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "tag.service.spec.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\tag\\tag.service.spec.ts",
+              "RelativeDocumentMoniker": "src\\tag\\tag.service.spec.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\tag\\tag.service.spec.ts",
+              "RelativeToolTip": "src\\tag\\tag.service.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T00:45:42.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "review.module.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\review\\review.module.ts",
+              "RelativeDocumentMoniker": "src\\review\\review.module.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\review\\review.module.ts",
+              "RelativeToolTip": "src\\review\\review.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T00:11:20.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\app.module.ts",
+              "RelativeDocumentMoniker": "src\\app.module.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\app.module.ts",
+              "RelativeToolTip": "src\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T00:07:12.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "profiles.module.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profiles\\profiles.module.ts",
+              "RelativeDocumentMoniker": "src\\profiles\\profiles.module.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\profiles\\profiles.module.ts",
+              "RelativeToolTip": "src\\profiles\\profiles.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-09T00:09:19.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "comment.entity.ts",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\comment\\entities\\comment.entity.ts",
+              "RelativeDocumentMoniker": "src\\comment\\entities\\comment.entity.ts",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\Odev_4_20253012\\odev3_20253012_backend\\src\\comment\\entities\\comment.entity.ts",
+              "RelativeToolTip": "src\\comment\\entities\\comment.entity.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-08T23:56:02.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
