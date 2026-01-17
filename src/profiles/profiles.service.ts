@@ -35,7 +35,10 @@ export class ProfilesService {
     }
 
     findOne(id: number) {
-        return this.profileRep.findOneBy({ id });
+        return this.profileRep.findOne({
+    where: { id: id },
+    relations: { tags: true } 
+});
     }
 
     async update(id: number, updateProfileDto: UpdateProfileDto, photo: string) {
