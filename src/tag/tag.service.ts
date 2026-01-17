@@ -9,7 +9,9 @@ export class TagService {
         @InjectRepository(Tag)
         private tagRepository: Repository<Tag>,
     ) { }
-
+    async findOne(id: number) {
+        return this.tagRepository.findOneBy({ id });
+    }
     async findAll() {
         return this.tagRepository.find({
             order: { name: 'ASC' }

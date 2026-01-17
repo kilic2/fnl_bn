@@ -36,4 +36,6 @@ export class Profile {
 
     @OneToMany(() => Comment, (comment) => comment.user)
     comments: Comment[];
+    @Column()
+    isLoggedIn: boolean;
 }
