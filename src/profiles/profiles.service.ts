@@ -29,7 +29,9 @@ export class ProfilesService {
     }
 
     findAll() {
-        return this.profileRep.find();
+        return this.profileRep.find({
+    relations: {
+        tags: true, }});
     }
 
     findOne(id: number) {
