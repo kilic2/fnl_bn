@@ -48,8 +48,12 @@ export class ProfilesService {
     }
 
     async update(id: number, updateProfileDto: UpdateProfileDto, photo: string) {
+        console.log('🔵 Update called with:', { id, updateProfileDto, photo });
+        
         const profile = await this.findOne(id);
         if (!profile) throw new NotFoundException();
+
+        console.log('🟡 Current profile.profileTypeId:', profile.profileTypeId);
 
         if (updateProfileDto.password && updateProfileDto.password.length > 0) {
             if (updateProfileDto.password !== updateProfileDto.rpPassword) {
@@ -66,7 +70,12 @@ export class ProfilesService {
             profile.email = updateProfileDto.email;
         }
 
+        console.log('🟢 updateProfileDto.profileTypeId:', updateProfileDto.profileTypeId);
+        console.log('🟢 Type:', typeof updateProfileDto.profileTypeId);
+        console.log('🟢 Check undefined:', updateProfileDto.profileTypeId !== undefined);
+        
         if (updateProfileDto.profileTypeId !== undefined) {
+            console.log('✅ Setting profileTypeId to:', updateProfileDto.profileTypeId);
             profile.profileTypeId = updateProfileDto.profileTypeId;
         }
 
@@ -74,12 +83,17 @@ export class ProfilesService {
             profile.photo = photo;
         }
 
+        console.log('🔴 Before save - profile.profileTypeId:', profile.profileTypeId);
         const savedProfile = await this.profileRep.save(profile);
+        console.log('🔴 After save - savedProfile.profileTypeId:', savedProfile.profileTypeId);
         
-        return this.profileRep.findOne({
+        const result = await this.profileRep.findOne({
             where: { id: savedProfile.id },
             relations: ['profileType', 'tags']
         });
+        console.log('🟣 Final result - profileTypeId:', result.profileTypeId);
+        
+        return result;
     }
 
     async remove(id: number) {
