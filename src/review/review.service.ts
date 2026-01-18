@@ -43,4 +43,8 @@ export class ReviewService {
 
         return review;
     }
+
+    async remove(id: number) {
+        return await this.reviewRepository.delete(id);
+    }
 }

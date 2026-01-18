@@ -1,4 +1,4 @@
-import { BadRequestException, Body, Controller, Get, Param,Post, UploadedFile, UseInterceptors } from '@nestjs/common';
+import { BadRequestException, Body, Controller, Delete, Get, Param, Post, UploadedFile, UseInterceptors } from '@nestjs/common';
 import { ReviewService } from './review.service';
 import { FileInterceptor } from '@nestjs/platform-express';
 import { diskStorage } from 'multer';
@@ -34,5 +34,10 @@ export class ReviewController {
     @Get(':id')
     findOne(@Param('id') id: string) {
         return this.reviewService.findOne(+id);
+    }
+
+    @Delete(':id')
+    remove(@Param('id') id: string) {
+        return this.reviewService.remove(+id);
     }
 }
