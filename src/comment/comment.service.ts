@@ -23,4 +23,8 @@ export class CommentService {
             order: { date: 'DESC' }
         });
     }
+
+    async remove(id: number) {
+        return this.commentRepository.delete(id);
+    }
 }

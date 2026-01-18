@@ -59,7 +59,7 @@ export class ProfilesController {
     let photoUrl: string = '';
 
     if (file !== undefined) {
-      photoUrl = `http://localhost:3000/fotograflar/${file.filename}`;
+      photoUrl = `https://api.donanim.evdekom.com.tr/fotograflar/${file.filename}`;
     }
 
     return this.profilesService.update(+id, updateProfileDto, photoUrl);

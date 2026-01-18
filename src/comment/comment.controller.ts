@@ -1,4 +1,4 @@
-import { Controller, Get, Post, Body, Param } from '@nestjs/common';
+import { Controller, Get, Post, Body, Param,Delete } from '@nestjs/common';
 import { CommentService } from './comment.service';
 import { CreateCommentDto } from './dto/create-comment.dto';
 
@@ -14,5 +14,9 @@ export class CommentController {
     @Get('review/:reviewId')
     findByReview(@Param('reviewId') reviewId: string) {
         return this.commentService.findByReview(+reviewId);
+    }
+    @Delete(':id')
+    remove(@Param('id') id: string) {
+        return this.commentService.remove(+id);
     }
 }
