@@ -30,15 +30,21 @@ export class ProfilesService {
 
     findAll() {
         return this.profileRep.find({
-    relations: {
-        tags: true, }});
+            relations: {
+                tags: true,
+                profileType: true
+            }
+        });
     }
 
     findOne(id: number) {
         return this.profileRep.findOne({
-    where: { id: id },
-    relations: { tags: true } 
-});
+            where: { id: id },
+            relations: { 
+                tags: true,
+                profileType: true
+            } 
+        });
     }
 
     async update(id: number, updateProfileDto: UpdateProfileDto, photo: string) {
@@ -60,7 +66,7 @@ export class ProfilesService {
             profile.email = updateProfileDto.email;
         }
 
-        if (updateProfileDto.profileTypeId) {
+        if (updateProfileDto.profileTypeId !== undefined) {
             profile.profileTypeId = updateProfileDto.profileTypeId;
         }
 
@@ -68,7 +74,12 @@ export class ProfilesService {
             profile.photo = photo;
         }
 
-        return this.profileRep.save(profile);
+        const savedProfile = await this.profileRep.save(profile);
+        
+        return this.profileRep.findOne({
+            where: { id: savedProfile.id },
+            relations: ['profileType', 'tags']
+        });
     }
 
     async remove(id: number) {
