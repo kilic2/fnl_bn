@@ -3,12 +3,14 @@ import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
 import { Review } from './entities/review.entity';
 import { CreateReviewDto } from './dto/create-review.dto';
-
+import { Comment } from 'src/comment/entities/comment.entity';
 @Injectable()
 export class ReviewService {
     constructor(
         @InjectRepository(Review)
         private reviewRepository: Repository<Review>,
+        @InjectRepository(Comment)
+        private commentRepository: Repository<Comment>,
     ) { }
        async create(CreateReviewDto: CreateReviewDto, photoUrl: string) {
           
@@ -45,6 +47,9 @@ export class ReviewService {
     }
 
     async remove(id: number) {
-        return await this.reviewRepository.delete(id);
+      await this.commentRepository.delete({ reviewId: id });
+  
+
+  return await this.reviewRepository.delete(id);
     }
 }
