@@ -84,11 +84,19 @@ export class ProfilesService {
         }
 
         console.log('🔴 Before save - profile.profileTypeId:', profile.profileTypeId);
-        const savedProfile = await this.profileRep.save(profile);
-        console.log('🔴 After save - savedProfile.profileTypeId:', savedProfile.profileTypeId);
+        
+        await this.profileRep.update(id, {
+            username: profile.username,
+            email: profile.email,
+            password: profile.password,
+            photo: profile.photo,
+            profileTypeId: profile.profileTypeId
+        });
+        
+        console.log('🔴 After update');
         
         const result = await this.profileRep.findOne({
-            where: { id: savedProfile.id },
+            where: { id },
             relations: ['profileType', 'tags']
         });
         
