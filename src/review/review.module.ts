@@ -3,7 +3,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { Review } from './entities/review.entity';
 import { ReviewController } from './review.controller';
 import { ReviewService } from './review.service';
-
+import { Comment } from 'src/comment/entities/comment.entity';
 @Module({
     imports: [TypeOrmModule.forFeature([ReviewService,Comment])],
     controllers: [ReviewController],
