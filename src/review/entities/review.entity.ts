@@ -18,6 +18,8 @@ export class Review {
     @CreateDateColumn()
     date: Date;
 
-    @OneToMany(() => Comment, (comment) => comment.review)
+ @OneToMany(() => Comment, (comment) => comment.review, { 
+        onDelete: 'CASCADE' 
+    })
     comments: Comment[];
 }
