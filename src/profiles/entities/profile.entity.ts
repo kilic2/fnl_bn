@@ -20,7 +20,7 @@ export class Profile {
     @Column()
     photo: string;
 
-    @ManyToOne(() => ProfileType, (profileType) => profileType.profiles, { eager: true })
+    @ManyToOne(() => ProfileType, (profileType) => profileType.profiles)
     profileType: ProfileType;
 
     @Column()
@@ -36,5 +36,4 @@ export class Profile {
 
     @OneToMany(() => Comment, (comment) => comment.user)
     comments: Comment[];
- 
 }
