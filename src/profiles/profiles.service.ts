@@ -91,6 +91,11 @@ export class ProfilesService {
             where: { id: savedProfile.id },
             relations: ['profileType', 'tags']
         });
+        
+        if (!result) {
+            throw new NotFoundException('Profile not found after save');
+        }
+        
         console.log('🟣 Final result - profileTypeId:', result.profileTypeId);
         
         return result;
